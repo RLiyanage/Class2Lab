@@ -12,7 +12,7 @@
         <title></title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Welcome</h1>
         <p>Click <a href="PageGenerator2.jsp"> here</a> to go table</p>
     </body>
 </html>
